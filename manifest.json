@@ -1,6 +1,7 @@
 {
     "name":"Migameta",
     "short_name":"Migameta",
+	"description": "Migameta is a demo app from Migastone for Oculus Quest 2.",
     "start_url":".",
     "background_color": "#F4505F",
     "theme_color":"#F4505F",
