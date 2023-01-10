@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: #fff;
+    background-color: salmon;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px !important;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000000 !important; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #F4505F !important; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #12c2e9 !important; 
+}
